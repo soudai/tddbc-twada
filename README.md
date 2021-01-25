@@ -47,7 +47,8 @@
 
 --
 
-短縮 URL: https://bit.ly/3nkWwYq
+作者 [@twada](https://gist.github.com/twada)  
+引用元 URL: https://gist.github.com/twada/856c37103ebd3d1fb973ba2c2654f9d6
 
 
 ![クリエイティブ・コモンズ 表示 - 継承 2.1 日本](http://i.creativecommons.org/l/by-sa/2.1/jp/88x31.png)
