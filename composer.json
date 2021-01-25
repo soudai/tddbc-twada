@@ -1,0 +1,12 @@
+{
+    "name": "soudai/workshop",
+    "authors": [
+        {
+            "name": "soudai",
+            "email": "sone@have-fun.tech"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
